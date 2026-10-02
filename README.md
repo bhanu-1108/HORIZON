@@ -276,7 +276,7 @@ HORIZON/
 <table>
   <tr>
     <td align="center" width="420">
-      <h2>✦ MITUL RISHI ✦</h2>
+      <h2>✦ MITUL RISHI and Bhanu Saran ✦</h2>
       <h3><em>Lead AI & Systems Architect</em></h3>
       <p>
         The HORIZON suite — every algorithm, every workstation, every line of aerospace mathematics — was <strong>designed, engineered, and delivered</strong> by <strong>Mitul Rishi</strong>.
